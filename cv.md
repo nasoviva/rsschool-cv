@@ -9,9 +9,9 @@
 * Linkedin: _https://www.linkedin.com/in/nasoviva/_
 * Github: _https://github.com/nasoviva/_
 * Telegram: _https://t.me/hverda_
-* Discord: _https://discordapp.com/users/viktoriianasonovanasoviva_
+* Discord: _[viktoriianasonovanasoviva](https://discordapp.com/users/viktoriianasonovanasoviva)_
 
-## About myself
+
 
 Junior IT professional with a strong foundation built through 42’s renowned programming school, EPAM’s Introduction to Java course, and a Swift course by Udemy.
 
@@ -31,7 +31,7 @@ var totalGoals = laLigaGoals + championLeagueGoals + copaDelReyGoals
 
 **Project Manager**
 
-_Consulting company Business Relations (2017 - 2021)_
+Consulting company Business Relations (2017 - 2021)
 
 * Assistance in selecting training programs
 * Approval of terms and conditions for providing services
@@ -43,6 +43,12 @@ _Consulting company Business Relations (2017 - 2021)_
 * 42School
 * course by Epam: _Introduction to Java_
 * course by Udemy: _IOS App Development Bootcamp_
+
+## Projects
+* [Weather: ](https://github.com/nasoviva/Weather)  Is a practical project in Swift that provide users with current weather information
+* [Quizzler: ](https://github.com/nasoviva/Quizzler)  This is an application in Swift for taking quiz
+* [So-long: ](https://github.com/nasoviva/so_long)  Small 2D game in C with minilibx
+* [Library: ](https://github.com/nasoviva/java0tutor_for_EPAM/tree/main/final_task)  A console application in Java for managing a library’s book inventory
 
 ## Skills
 * C, Java Core, OOP, SOLID, Swift, SQLite, UIKit, MVC, SwiftUI
