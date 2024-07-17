@@ -1,0 +1,171 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+    color: black;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    transition: 0.3s;
+}
+
+a:hover {
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+header {
+    background-color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 20px;
+    line-height: 50px;
+
+}
+
+.nav-link {
+    color: white;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section {
+    width: 100%;
+}
+
+@media (max-width: 580px) {
+    .section {
+        width: 100%;
+    }
+
+    .nav-list {
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-align: center;
+
+}
+
+.section-item {
+    position: relative;
+    padding-left: 20px;
+}
+
+.section-item::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 5px;
+    height: 5px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+#profile {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+
+.foto {
+    width: 121px;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+
+#contacts {
+    font-style: italic;
+}
+
+.section-div {
+    text-align: justify;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+h4 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+pre {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.footer {
+    padding-bottom: 10px;
+    background-color: black;
+}
+
+.footer-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 20px;
+    font-weight: 500;
+}
+
+.footer-logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid white;
+}
+
+.footer-year {
+    color: white;
+}
