@@ -58,9 +58,10 @@ Consulting company Business Relations (2017 - 2021)
 * [Library: ](https://github.com/nasoviva/java0tutor_for_EPAM/tree/main/final_task)  A console application in Java for managing a library’s book inventory
 
 ## Skills
-* C, Java Core, OOP, SOLID, Swift, SQLite, UIKit, MVC, SwiftUI, JavaScript, HTML/CSS
-* Linux, Git, Maven, Algorithms
-* Xcode, VSCode, IntelliJ, Eclipse
+* Languages: JavaScript, HTML, CSS, Swift, Java, C
+* Tools: Git, Bash, VSCode, Figma, Xano, Bubble
+* Concepts: OOP, Data Structures, Algorithms
+* APIs: REST API, Fetch API
 
 ## Languages
 * Russian: _Native_
